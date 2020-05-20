@@ -3,7 +3,7 @@ Mini-Tasks for the Summer of 2020.
 
 | S. No.| Name | Domain | Link |
 |:----:|:----:|:----:|:----:|
-|1.| Shouryan Sharma | Frontend | https://muskantewari.github.io/Mini-Tasks-20/Shouryan_Sharma |
+|1.| Shouryan Sharma | Frontend | https://muskantewari.github.io/Mini-Tasks-20/Shouryan_Sharma/cctask1 |
 |2.| Neil Rathi | Frontend | https://muskantewari.github.io/Mini-Tasks-20/Neil_Rathi |
 |3.| Shakti Balaji | Frontend | https://muskantewari.github.io/Mini-Tasks-20/Shakti_Balaji |
 |4.| Saksham Jain | Frontend | https://muskantewari.github.io/Mini-Tasks-20/Saksham_Jain |
